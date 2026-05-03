@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://okblue430.github.io/resources-g9mkn6/sitemap.xml
